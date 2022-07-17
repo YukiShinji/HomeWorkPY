@@ -23,5 +23,5 @@ def findNumberInMassive(userWords):
         else:
             print("This word is not in the list ")
 
-userWord = input("insert a number: ")
+userWord = input("insert a word: ")
 findNumberInMassive(userWord)
